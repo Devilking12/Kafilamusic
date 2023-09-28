@@ -33,5 +33,6 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/sayuu_says"),
             InlineKeyboardButton(text=_["S_B_7"], url=f"https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4"),
         ],
+    ]
 
     return buttons

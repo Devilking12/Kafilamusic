@@ -27,11 +27,11 @@ def private_panel(_):
         [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text=_["S_B_2"], url=f"https://t.me/+5ZgORsa2hgU3OGRl"),
+            InlineKeyboardButton(text=_["S_B_2"], url=f"https://t.me/english_hindi_friends_chatting"),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/sayuu_says"),
-            InlineKeyboardButton(text=_["S_B_7"], url=f"https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4"),
+            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/Devil_ki_masoomiyat"),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://te.legra.ph/file/e8c8767cf21eeb7001d45.mp4"),
         ],
     ]
 
